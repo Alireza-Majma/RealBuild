@@ -1,0 +1,10 @@
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild\RealBuild.CopyInfrustructure\bin\Debug\RealBuild.CopyInfrustructure.dll
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild\RealBuild.CopyInfrustructure\bin\Debug\RealBuild.CopyInfrustructure.pdb
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.dll
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.pdb
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.csprojResolveAssemblyReference.cache
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild.CopyInfrustructure\bin\Debug\RealBuild.CopyInfrustructure.dll
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild.CopyInfrustructure\bin\Debug\RealBuild.CopyInfrustructure.pdb
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.dll
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.pdb
+C:\TFS2013\AssetManagement\Main\Source\RealSuiteApps\RealBuild\RealBuild.CopyInfrustructure\obj\Debug\RealBuild.CopyInfrustructure.csprojResolveAssemblyReference.cache
